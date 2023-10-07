@@ -1,0 +1,30 @@
+.navbar{
+    background: #55ebff;
+    padding: 0;
+}
+
+.container{
+    max-width: 1120px;
+}
+
+.container .navbar-brand{
+    padding: 0;
+}
+
+.container .navbar-nav{
+    column-gap: 35px;
+}
+
+.container .navbar-nav .nav-link{
+    padding: 0;
+}
+
+.container .d-flex .form-control{
+    border-radius: 0;
+}
+
+.container .d-flex .btn{
+    background: #FB2E86;
+    padding: 8px 14px;
+    border-radius: 0;
+}
